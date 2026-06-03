@@ -78,7 +78,7 @@ I am a Java Full Stack Developer with a strong focus on backend development and 
 ## 📫 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- Email: yourmail@example.com
+- Email: singamsettysuresh007@gmail.com
 
 ---
 
